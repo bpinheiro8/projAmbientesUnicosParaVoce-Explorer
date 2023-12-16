@@ -31,7 +31,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O projeto Ambientes Unicos Para Você 1 é uma pagina simples, para treino de HTML e CSS.
+O projeto Ambientes Unicos Para Você é uma pagina simples, para treino de HTML e CSS.
 
 ## 🔖 Layout
 

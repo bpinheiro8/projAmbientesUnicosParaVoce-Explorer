@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto Explorer 1 </h1>
+<h1 align="center"> Projeto Ambientes Unicos Para Você </h1>
 
 <p align="center">
 Programa exclusivo promovido pela Rocketseat para ensino de tecnologias WEB.
